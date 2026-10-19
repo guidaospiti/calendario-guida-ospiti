@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Guida Ospiti//Piano social//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:go-social-43-0@guidaospiti.it
+DTSTAMP:20261018T180000Z
+DTSTART:20261019T073000Z
+DTEND:20261019T080000Z
+SUMMARY:Analisi numeri della settimana
+DESCRIPTION:Raccogli i numeri IG e FB e mandali a Claude (chat social).
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Analisi numeri della settimana
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-43-1@guidaospiti.it
+DTSTAMP:20261018T180000Z
+DTSTART:20261019T163000Z
+DTEND:20261019T164000Z
+SUMMARY:Storia sondaggio Wi-Fi
+DESCRIPTION:storia-sondaggio.jpg + adesivo Sondaggio sul riquadro tratteggiato. IG e FB.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Storia sondaggio Wi-Fi
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-43-2@guidaospiti.it
+DTSTAMP:20261018T180000Z
+DTSTART:20261020T173000Z
+DTEND:20261020T180000Z
+SUMMARY:Reel «Sei a cena»
+DESCRIPTION:reel-cena.mp4 + copertina-cena.jpg. IG dall app con musica, FB da Business Suite. Fissa il commento GUIDA e condividi in storia.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reel «Sei a cena»
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-43-3@guidaospiti.it
+DTSTAMP:20261018T180000Z
+DTSTART:20261021T110000Z
+DTEND:20261021T111000Z
+SUMMARY:Storia «Rispondi GUIDA»
+DESCRIPTION:storia-guida.jpg su IG e FB (su FB adesivo link).
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Storia «Rispondi GUIDA»
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-43-4@guidaospiti.it
+DTSTAMP:20261018T180000Z
+DTSTART:20261022T110000Z
+DTEND:20261022T112000Z
+SUMMARY:Carosello «7 domande»
+DESCRIPTION:carosello-01…09 in ordine, formato 4:5. IG e FB.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Carosello «7 domande»
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-43-5@guidaospiti.it
+DTSTAMP:20261018T180000Z
+DTSTART:20261022T183000Z
+DTEND:20261022T190000Z
+SUMMARY:Post nel gruppo Facebook n. 1
+DESCRIPTION:Testo «7 domande» con le foto del carosello. Link nel primo commento.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post nel gruppo Facebook n. 1
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-43-6@guidaospiti.it
+DTSTAMP:20261018T180000Z
+DTSTART:20261024T090000Z
+DTEND:20261024T093000Z
+SUMMARY:Reel «Ogni santa prenotazione»
+DESCRIPTION:reel-domande.mp4 + copertina-domande.jpg. IG con audio, FB da Business Suite. Fissa il commento GUIDA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reel «Ogni santa prenotazione»
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-43-7@guidaospiti.it
+DTSTAMP:20261018T180000Z
+DTSTART:20261024T160000Z
+DTEND:20261024T163000Z
+SUMMARY:Post nel gruppo Facebook n. 2
+DESCRIPTION:Post di presentazione con screenshot Casa Lungomare, gruppo diverso dal primo.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post nel gruppo Facebook n. 2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-43-8@guidaospiti.it
+DTSTAMP:20261018T180000Z
+DTSTART:20261025T170000Z
+DTEND:20261025T171000Z
+SUMMARY:Storia «Rispondi GUIDA» + carosello in storia
+DESCRIPTION:Ripresa della storia GUIDA e condivisione del carosello.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Storia «Rispondi GUIDA» + carosello in storia
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-43-91@guidaospiti.it
+DTSTAMP:20261019T080000Z
+DTSTART:20261019T163000Z
+DTEND:20261019T164500Z
+SUMMARY:Follow-up WhatsApp: 2 contatti interessati
+DESCRIPTION:Un solo messaggio di richiamo gentile, senza insistere. Testo nel piano, sezione Flusso GUIDA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow-up WhatsApp: 2 contatti interessati
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-43-92@guidaospiti.it
+DTSTAMP:20261019T080000Z
+DTSTART:20261022T080000Z
+DTEND:20261022T081500Z
+SUMMARY:Follow-up demo Instagram
+DESCRIPTION:Se non ha risposto, chiedi se ha visto la demo. Testo nel piano, sezione Flusso GUIDA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow-up demo Instagram
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
