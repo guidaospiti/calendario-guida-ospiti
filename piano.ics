@@ -21,7 +21,8 @@ DTSTAMP:20261018T180000Z
 DTSTART:20261019T163000Z
 DTEND:20261019T164000Z
 SUMMARY:Storia sondaggio Wi-Fi
-DESCRIPTION:storia-sondaggio.jpg + adesivo Sondaggio sul riquadro tratteggiato. IG e FB.
+DESCRIPTION:storia-sondaggio.jpg + adesivo Sondaggio sul riquadro tratteggi
+ ato. IG e FB.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Storia sondaggio Wi-Fi
@@ -34,7 +35,8 @@ DTSTAMP:20261018T180000Z
 DTSTART:20261020T173000Z
 DTEND:20261020T180000Z
 SUMMARY:Reel «Sei a cena»
-DESCRIPTION:reel-cena.mp4 + copertina-cena.jpg. IG dall app con musica, FB da Business Suite. Fissa il commento GUIDA e condividi in storia.
+DESCRIPTION:reel-cena.mp4 + copertina-cena.jpg. IG dall app con musica, FB 
+ da Business Suite. Fissa il commento GUIDA e condividi in storia.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reel «Sei a cena»
@@ -73,7 +75,8 @@ DTSTAMP:20261018T180000Z
 DTSTART:20261022T183000Z
 DTEND:20261022T190000Z
 SUMMARY:Post nel gruppo Facebook n. 1
-DESCRIPTION:Testo «7 domande» con le foto del carosello. Link nel primo commento.
+DESCRIPTION:Testo «7 domande» con le foto del carosello. Link nel primo c
+ ommento.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Post nel gruppo Facebook n. 1
@@ -86,7 +89,8 @@ DTSTAMP:20261018T180000Z
 DTSTART:20261024T090000Z
 DTEND:20261024T093000Z
 SUMMARY:Reel «Ogni santa prenotazione»
-DESCRIPTION:reel-domande.mp4 + copertina-domande.jpg. IG con audio, FB da Business Suite. Fissa il commento GUIDA.
+DESCRIPTION:reel-domande.mp4 + copertina-domande.jpg. IG con audio, FB da B
+ usiness Suite. Fissa il commento GUIDA.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reel «Ogni santa prenotazione»
@@ -99,7 +103,8 @@ DTSTAMP:20261018T180000Z
 DTSTART:20261024T160000Z
 DTEND:20261024T163000Z
 SUMMARY:Post nel gruppo Facebook n. 2
-DESCRIPTION:Post di presentazione con screenshot Casa Lungomare, gruppo diverso dal primo.
+DESCRIPTION:Post di presentazione con screenshot Casa Lungomare, gruppo div
+ erso dal primo.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Post nel gruppo Facebook n. 2
@@ -125,7 +130,8 @@ DTSTAMP:20261019T080000Z
 DTSTART:20261019T163000Z
 DTEND:20261019T164500Z
 SUMMARY:Follow-up WhatsApp: 2 contatti interessati
-DESCRIPTION:Un solo messaggio di richiamo gentile, senza insistere. Testo nel piano, sezione Flusso GUIDA.
+DESCRIPTION:Un solo messaggio di richiamo gentile, senza insistere. Testo n
+ el piano, sezione Flusso GUIDA.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Follow-up WhatsApp: 2 contatti interessati
@@ -138,11 +144,140 @@ DTSTAMP:20261019T080000Z
 DTSTART:20261022T080000Z
 DTEND:20261022T081500Z
 SUMMARY:Follow-up demo Instagram
-DESCRIPTION:Se non ha risposto, chiedi se ha visto la demo. Testo nel piano, sezione Flusso GUIDA.
+DESCRIPTION:Se non ha risposto, chiedi se ha visto la demo. Testo nel piano
+ , sezione Flusso GUIDA.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Follow-up demo Instagram
 TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-44-0@guidaospiti.it
+DTSTAMP:20261026T090000Z
+DTSTART:20261026T170000Z
+DTEND:20261026T172000Z
+RRULE:FREQ=DAILY;COUNT=6
+SUMMARY:Link in bio + 5 messaggi ai proprietari
+DESCRIPTION:Nuovo link in bio (sezione Link in bio del piano) e primi 5 mes
+ saggi. Piano: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Link in bio + 5 messaggi ai proprietari
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-44-1@guidaospiti.it
+DTSTAMP:20261026T090000Z
+DTSTART:20261027T173000Z
+DTEND:20261027T174000Z
+SUMMARY:Storia Ponte di Ognissanti (adesivo Domande)
+DESCRIPTION:Testo: Ospiti in arrivo per il ponte? Qual è la domanda che ti
+  fanno più spesso? Adesivo Domande. IG e FB. Piano: https://claude.ai/art
+ ifact/KvKCKoBfaDxHEHKGJ1kUxT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Storia Ponte di Ognissanti (adesivo Domande)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-44-2@guidaospiti.it
+DTSTAMP:20261026T090000Z
+DTSTART:20261027T190000Z
+DTEND:20261027T193000Z
+SUMMARY:Gira il Reel con la tua faccia
+DESCRIPTION:Copione di 15 secondi nel piano: 3 prove\, luce dalla finestra.
+  Piano: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gira il Reel con la tua faccia
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-44-3@guidaospiti.it
+DTSTAMP:20261026T090000Z
+DTSTART:20261028T183000Z
+DTEND:20261028T184000Z
+SUMMARY:Pubblica Reel con la tua faccia
+DESCRIPTION:IG + FB. Didascalia nel piano\, copertina HAI UNA CASA SU AIRBN
+ B? Piano: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pubblica Reel con la tua faccia
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-44-4@guidaospiti.it
+DTSTAMP:20261026T090000Z
+DTSTART:20261029T090000Z
+DTEND:20261029T092000Z
+SUMMARY:Follow-up messaggi senza risposta
+DESCRIPTION:Una riga sola\, solo a chi non ha risposto da 3-4 giorni. Testo
+  nel piano. Piano: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow-up messaggi senza risposta
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-44-5@guidaospiti.it
+DTSTAMP:20261026T090000Z
+DTSTART:20261029T120000Z
+DTEND:20261029T121000Z
+SUMMARY:Storia: Reel + Scrivimi DEMO
+DESCRIPTION:Condividi il Reel in storia\, adesivo link alla demo Casa Limon
+ e. Piano: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Storia: Reel + Scrivimi DEMO
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-44-6@guidaospiti.it
+DTSTAMP:20261026T090000Z
+DTSTART:20261030T080000Z
+DTEND:20261030T084500Z
+SUMMARY:Imposta l'inserzione dal computer (20 € totali)
+DESCRIPTION:Segui gli 8 passi nella sezione Inserzione rifatta. Fine 3 nove
+ mbre. Piano: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Imposta l'inserzione dal computer (20 € totali)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-44-7@guidaospiti.it
+DTSTAMP:20261026T090000Z
+DTSTART:20261031T100000Z
+DTEND:20261031T101000Z
+SUMMARY:Storia: chi ha ospiti per il ponte?
+DESCRIPTION:Screenshot Wi-Fi Casa Limone + link demo + Scrivimi DEMO. Piano
+ : https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Storia: chi ha ospiti per il ponte?
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-44-8@guidaospiti.it
+DTSTAMP:20261026T090000Z
+DTSTART:20261102T083000Z
+DTEND:20261102T090000Z
+SUMMARY:Analisi numeri della settimana
+DESCRIPTION:Tabella Cosa misurare nel piano\, poi scrivi a Claude nella cha
+ t social. Piano: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Analisi numeri della settimana
+TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
