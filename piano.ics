@@ -154,7 +154,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-social-44-0@guidaospiti.it
-DTSTAMP:20261026T091000Z
+DTSTAMP:20261026T100000Z
 DTSTART:20261026T170000Z
 DTEND:20261026T172000Z
 RRULE:FREQ=DAILY;COUNT=6
@@ -169,13 +169,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-social-44-1@guidaospiti.it
-DTSTAMP:20261026T091000Z
+DTSTAMP:20261026T100000Z
 DTSTART:20261027T173000Z
 DTEND:20261027T174000Z
-SUMMARY:Storia Ponte di Ognissanti (adesivo Domande)
-DESCRIPTION:Testo: Ospiti in arrivo per il ponte? Qual è la domanda che ti
-  fanno più spesso? Adesivo Domande. IG e FB. Piano: https://claude.ai/art
- ifact/KvKCKoBfaDxHEHKGJ1kUxT
+SUMMARY:Storia ponte: storia-ponte-domanda.jpg + adesivo Domande
+DESCRIPTION:Dall'app Instagram: storia-ponte-domanda.jpg\, adesivo Domande 
+ sul riquadro tratteggiato\, Condividi su Facebook. Piano: https://claude.a
+ i/artifact/KvKCKoBfaDxHEHKGJ1kUxT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Storia Ponte di Ognissanti (adesivo Domande)
@@ -184,7 +184,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-social-44-2@guidaospiti.it
-DTSTAMP:20261026T091000Z
+DTSTAMP:20261026T100000Z
 DTSTART:20261027T190000Z
 DTEND:20261027T193000Z
 SUMMARY:Rispondi a chi ha risposto alla storia
@@ -199,22 +199,22 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-social-44-3@guidaospiti.it
-DTSTAMP:20261026T091000Z
+DTSTAMP:20261026T100000Z
 DTSTART:20261028T183000Z
 DTEND:20261028T184000Z
-SUMMARY:Pubblica Reel animato del ponte
-DESCRIPTION:IG + FB. reel-ponte.mp4 + copertina-ponte.jpg\, niente musica. 
- Didascalia nel piano. Piano: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1
- kUxT
+SUMMARY:Pubblica Reel del ponte (Prova\, solo Instagram)
+DESCRIPTION:IG + FB. reel-ponte.mp4 + copertina-ponte.jpg\, niente musica\,
+  attiva Prova. Se l'hai già programmato ignora. Didascalia nel piano. Pia
+ no: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pubblica Reel animato del ponte
+DESCRIPTION:Pubblica Reel del ponte (Prova\, solo Instagram)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-social-44-4@guidaospiti.it
-DTSTAMP:20261026T091000Z
+DTSTAMP:20261026T100000Z
 DTSTART:20261029T090000Z
 DTEND:20261029T092000Z
 SUMMARY:Follow-up messaggi senza risposta
@@ -228,12 +228,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-social-44-5@guidaospiti.it
-DTSTAMP:20261026T091000Z
+DTSTAMP:20261026T100000Z
 DTSTART:20261029T120000Z
 DTEND:20261029T121000Z
-SUMMARY:Storia: Reel + Scrivimi DEMO
-DESCRIPTION:Condividi il Reel in storia\, adesivo link alla demo Casa Limon
- e. Piano: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT
+SUMMARY:Controllo: storia demo programmata
+DESCRIPTION:storia-ponte-demo.jpg è programmata in Business Suite. Rispond
+ i a chi scrive. Piano: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Storia: Reel + Scrivimi DEMO
@@ -242,7 +242,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-social-44-6@guidaospiti.it
-DTSTAMP:20261026T091000Z
+DTSTAMP:20261026T100000Z
 DTSTART:20261030T080000Z
 DTEND:20261030T084500Z
 SUMMARY:Imposta l'inserzione dal computer (20 € totali)
@@ -256,12 +256,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-social-44-7@guidaospiti.it
-DTSTAMP:20261026T091000Z
+DTSTAMP:20261026T100000Z
 DTSTART:20261031T100000Z
 DTEND:20261031T101000Z
-SUMMARY:Storia: chi ha ospiti per il ponte?
-DESCRIPTION:Screenshot Wi-Fi Casa Limone + link demo + Scrivimi DEMO. Piano
- : https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT
+SUMMARY:Controllo: storia Wi-Fi programmata
+DESCRIPTION:storia-ponte-wifi.jpg è programmata in Business Suite. Rispond
+ i a chi scrive. Piano: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Storia: chi ha ospiti per il ponte?
@@ -270,7 +270,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-social-44-8@guidaospiti.it
-DTSTAMP:20261026T091000Z
+DTSTAMP:20261026T100000Z
 DTSTART:20261102T083000Z
 DTEND:20261102T090000Z
 SUMMARY:Analisi numeri della settimana
