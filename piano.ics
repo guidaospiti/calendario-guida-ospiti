@@ -205,7 +205,13 @@ DTEND:20261028T184000Z
 SUMMARY:Pubblica Reel del ponte (Prova\, solo Instagram)
 DESCRIPTION:IG + FB. reel-ponte.mp4 + copertina-ponte.jpg\, niente musica\,
   attiva Prova. Se l'hai già programmato ignora. Didascalia nel piano. Pia
- no: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT
+ no: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT\n\nTESTO DA COPIARE:
+ \nOspiti in arrivo per il ponte? Le domande sono sempre le stesse: check-i
+ n\, Wi-Fi\, rifiuti\, dove mangiare.\n\nCon Guida Ospiti rispondi una volt
+ a sola: una guida digitale della tua casa\, con link e QR\, senza app per 
+ gli ospiti.\n\nScrivimi DEMO in privato e ti preparo quella della tua casa
+ \, gratis e senza impegno.\n\n#casavacanze #affittibrevi #airbnbitalia #be
+ dandbreakfast #hostitaliani
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Pubblica Reel del ponte (Prova\, solo Instagram)
@@ -279,6 +285,56 @@ DESCRIPTION:Tabella Cosa misurare nel piano\, poi scrivi a Claude nella cha
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Analisi numeri della settimana
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-44-pdf0@guidaospiti.it
+DTSTAMP:20261028T004500Z
+DTSTART:20261030T183000Z
+DTEND:20261030T184500Z
+SUMMARY:Reel PDF o guida digitale? (IG + FB)
+DESCRIPTION:reel-pdf.mp4 + copertina-pdf.jpg. Una versione per Instagram e 
+ una per Facebook.\n\nINSTAGRAM:\nPDF o guida digitale? Stessa casa\, due e
+ sperienze 👇\n\nCon Guida Ospiti l'ospite trova tutto con un tocco: il s
+ uo nome\, il Wi-Fi da copiare\, i rifiuti di oggi e «Portami qui» per ar
+ rivare ai tuoi posti.\n\nVuoi vederla con la tua casa? Demo gratuita\, pro
+ nta in circa un'ora. Link in bio 👆\n\n#casavacanze #affittibrevi #hosti
+ taliani #airbnbitalia #guidadigitale\n\nFACEBOOK:\nPDF o guida digitale? S
+ tessa casa\, due esperienze 👇\n\nCon Guida Ospiti l'ospite trova tutto 
+ con un tocco: il suo nome\, il Wi-Fi da copiare\, i rifiuti di oggi e «Po
+ rtami qui» per arrivare ai tuoi posti.\n\nVuoi vederla con la tua casa? D
+ emo gratuita\, pronta in circa un'ora: guidaospiti.it/?da=fb\n\nTutti i te
+ sti: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT (scheda Testi da co
+ piare)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reel PDF o guida digitale? (IG + FB)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-44-pdf1@guidaospiti.it
+DTSTAMP:20261028T004500Z
+DTSTART:20261101T170000Z
+DTEND:20261101T171500Z
+SUMMARY:Carosello PDF o guida digitale? (IG + FB)
+DESCRIPTION:carosello-pdf-1…6.jpg. Programmabile in Business Suite su tut
+ ti e due i social.\n\nINSTAGRAM:\nPDF o guida digitale? Stessa casa\, due 
+ esperienze 👇\n\nCon Guida Ospiti l'ospite trova tutto con un tocco: il 
+ suo nome\, il Wi-Fi da copiare\, i rifiuti di oggi e «Portami qui» per a
+ rrivare ai tuoi posti.\n\nVuoi vederla con la tua casa? Demo gratuita\, pr
+ onta in circa un'ora. Link in bio 👆\n\n#casavacanze #affittibrevi #host
+ italiani #airbnbitalia #guidadigitale\n\nFACEBOOK:\nPDF o guida digitale? 
+ Stessa casa\, due esperienze 👇\n\nCon Guida Ospiti l'ospite trova tutto
+  con un tocco: il suo nome\, il Wi-Fi da copiare\, i rifiuti di oggi e «P
+ ortami qui» per arrivare ai tuoi posti.\n\nVuoi vederla con la tua casa? 
+ Demo gratuita\, pronta in circa un'ora: guidaospiti.it/?da=fb\n\nTutti i t
+ esti: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT (scheda Testi da c
+ opiare)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Carosello PDF o guida digitale? (IG + FB)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
