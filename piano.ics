@@ -338,4 +338,123 @@ DESCRIPTION:Carosello PDF o guida digitale? (IG + FB)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:go-social-45-0@guidaospiti.it
+DTSTAMP:20261102T090000Z
+DTSTART:20261102T170000Z
+DTEND:20261102T172000Z
+RRULE:FREQ=DAILY;COUNT=6
+SUMMARY:5 messaggi: chi ti segue + nuovi proprietari
+DESCRIPTION:TESTO PER CHI TI SEGUE:\nCiao [nome]! Grazie per il follow 🙂
+  Ho visto [nome della casa]: ti va se ti preparo un esempio della guida di
+ gitale con la tua casa? Lo guardi e decidi tu\, nessun impegno.\n\nSegna o
+ gni messaggio nel Registro.\nTesti: https://claude.ai/artifact/KvKCKoBfaDx
+ HEHKGJ1kUxT (scheda Testi da copiare)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:5 messaggi: chi ti segue + nuovi proprietari
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-45-1@guidaospiti.it
+DTSTAMP:20261102T090000Z
+DTSTART:20261103T173000Z
+DTEND:20261103T174000Z
+SUMMARY:Storia sondaggio PDF (dall'app)
+DESCRIPTION:storia-pdf-sondaggio.jpg + adesivo Sondaggio sul riquadro tratt
+ eggiato. Opzioni: «PDF o foglio» e «Rispondo in chat». Condividi anche
+  su Facebook. Stasera rispondi a chi vota (testi nella scheda).\nTesti: ht
+ tps://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT (scheda Testi da copiare)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Storia sondaggio PDF (dall'app)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-45-2@guidaospiti.it
+DTSTAMP:20261102T090000Z
+DTSTART:20261104T183000Z
+DTEND:20261104T184500Z
+SUMMARY:Reel POV (IG + FB)
+DESCRIPTION:reel-pov.mp4 + copertina-pov.jpg. Una versione per social.\n\nI
+ NSTAGRAM:\nPOV: sono le 23:47 e hai una casa vacanze 📱 Ti riconosci?\n\
+ nCon una guida digitale rispondi una volta sola: Wi-Fi\, rifiuti\, check-o
+ ut e i tuoi posti\, tutto in un link.\n\nScrivimi DEMO in privato e la pre
+ paro gratis per la tua casa.\n\n#casavacanze #affittibrevi #hostitaliani #
+ airbnbitalia #guidadigitale\n\nFACEBOOK:\nPOV: sono le 23:47 e hai una cas
+ a vacanze 📱 Ti riconosci?\n\nCon una guida digitale rispondi una volta 
+ sola: Wi-Fi\, rifiuti\, check-out e i tuoi posti\, tutto in un link.\n\nSc
+ rivimi DEMO in privato e la preparo gratis per la tua casa: guidaospiti.it
+ /?da=fb\n\nTesti: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT (sched
+ a Testi da copiare)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reel POV (IG + FB)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-45-3@guidaospiti.it
+DTSTAMP:20261102T090000Z
+DTSTART:20261105T090000Z
+DTEND:20261105T092000Z
+SUMMARY:Follow-up messaggi senza risposta
+DESCRIPTION:Solo a chi non ha risposto da 3-4 giorni\n\nTESTO:\nTi avevo sc
+ ritto qualche giorno fa per una demo della tua casa: se ti interessa dimme
+ lo e te la preparo.\nTesti: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1k
+ UxT (scheda Testi da copiare)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow-up messaggi senza risposta
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-45-4@guidaospiti.it
+DTSTAMP:20261102T090000Z
+DTSTART:20261105T120000Z
+DTEND:20261105T121000Z
+SUMMARY:Controllo: storia demo programmata
+DESCRIPTION:storia-ponte-demo.jpg («Vuoi vedere la guida della tua casa?»
+ ): va programmata in Business Suite per questa ora. Se non l'hai fatto\, p
+ ubblicala ora.\nTesti: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT (
+ scheda Testi da copiare)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Controllo: storia demo programmata
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-45-5@guidaospiti.it
+DTSTAMP:20261102T090000Z
+DTSTART:20261107T100000Z
+DTEND:20261107T101000Z
+SUMMARY:Storia: condividi il Reel POV
+DESCRIPTION:Dal Reel POV tocca condividi > storia\, aggiungi la scritta «S
+ crivimi DEMO».\nTesti: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT 
+ (scheda Testi da copiare)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Storia: condividi il Reel POV
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-45-6@guidaospiti.it
+DTSTAMP:20261102T090000Z
+DTSTART:20261109T083000Z
+DTEND:20261109T090000Z
+SUMMARY:Analisi numeri della settimana
+DESCRIPTION:Scrivi a Claude nella chat social: legge i numeri da Meta. Tu p
+ orta quanti messaggi hai mandato e quante risposte.\nTesti: https://claude
+ .ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT (scheda Testi da copiare)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Analisi numeri della settimana
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
