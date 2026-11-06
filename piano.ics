@@ -457,4 +457,29 @@ DESCRIPTION:Analisi numeri della settimana
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:go-social-45-chiavi@guidaospiti.it
+DTSTAMP:20261106T100000Z
+DTSTART:20261108T173000Z
+DTEND:20261108T174500Z
+SUMMARY:Reel POV chiavi (IG + FB)
+DESCRIPTION:reel-pov-chiavi.mp4 + copertina-pov-chiavi.jpg. Una versione pe
+ r social.\n\nINSTAGRAM:\nPOV: arrivano gli ospiti e non trovano le chiavi 
+ 🔑 Portone sbagliato\, cassetta introvabile\, codice che non va… e tu 
+ sul divano.\n\nCon la guida digitale trovano tutto da soli: le istruzioni 
+ passo passo\, anche con il video del portone.\n\nScrivimi DEMO in privato 
+ e la preparo gratis per la tua casa.\n\n#casavacanze #affittibrevi #hostit
+ aliani #airbnbitalia #guidadigitale\n\nFACEBOOK:\nPOV: arrivano gli ospiti
+  e non trovano le chiavi 🔑 Portone sbagliato\, cassetta introvabile\, c
+ odice che non va… e tu sul divano.\n\nCon la guida digitale trovano tutt
+ o da soli: le istruzioni passo passo\, anche con il video del portone.\n\n
+ Scrivimi DEMO in privato e la preparo gratis per la tua casa: guidaospiti.
+ it/?da=fb\n\nTesti: https://claude.ai/artifact/KvKCKoBfaDxHEHKGJ1kUxT (sch
+ eda Testi da copiare)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reel POV chiavi (IG + FB)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
