@@ -635,4 +635,148 @@ DESCRIPTION:Reel POV chiavi
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:go-social-47-0@guidaospiti.it
+DTSTAMP:20261116T110000Z
+DTSTART:20261116T120000Z
+DTEND:20261116T123000Z
+SUMMARY:Offerta fondatori alle demo aperte
+DESCRIPTION:Prima le 3 aperte due volte: B&B Benvenuti al Sud (Brindisi)\, 
+ La Casa di Zia Michè (Taranto)\, Il Camerone (Isola del Liri). Se c'è un
+  numero pubblico\, telefona.\nPoi messaggio a: Blu Salina\, Terrazza 58\, 
+ Il Trullo di Mari'\, Onda Marina\, Carpegna Green House.\n\nMESSAGGIO:\nCi
+ ao! Ti scrivo per una cosa veloce 🙂 Fino al 30 novembre i primi 5 host 
+ che attivano la guida hanno il pacchetto Completo a 49 € invece di 69 
+ €: una volta sola\, 2 anni online inclusi e 14 giorni di modifiche.\n\nL
+ a guida di [nome della casa] è già pronta: la attivo così com'è o con 
+ le tue modifiche\, mi basta un vocale. Ti tengo uno dei posti?\n\nTELEFONA
+ TA (3 minuti)\n1. «Ciao\, sono Giacomo di Guida Ospiti: ti avevo mandato 
+ la guida di [nome casa]. Hai avuto modo di guardarla?»\n2. Ascolta: cosa 
+ le è piaciuto\, cosa cambierebbe.\n3. «Le modifiche le faccio io: dimmel
+ e adesso e la sistemo.»\n4. «Fino al 30 novembre\, per i primi 5 host\, 
+ il Completo è a 49 € invece di 69 €. Te la attivo?»\n5. Se dice sì:
+  «Ti mando il link per il pagamento su WhatsApp.» Se ci pensa: «Ti scri
+ vo giovedì.»\nCartella iCloud: Benvenuto ospite GUIDA project > Social >
+  Settimana 16-22 novembre
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Offerta fondatori alle demo aperte
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-47-1@guidaospiti.it
+DTSTAMP:20261116T110000Z
+DTSTART:20261117T170000Z
+DTEND:20261117T173000Z
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:2 demo pronte (con offerta 49 €)
+DESCRIPTION:Testo «Demo pronta» con il P.S. dell'offerta in Messaggi da c
+ opiare.txt\nCartella iCloud: Benvenuto ospite GUIDA project > Social > Set
+ timana 16-22 novembre
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2 demo pronte (con offerta 49 €)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-47-2@guidaospiti.it
+DTSTAMP:20261116T110000Z
+DTSTART:20261118T183000Z
+DTEND:20261118T184500Z
+SUMMARY:Reel POV parcheggio (IG + FB)
+DESCRIPTION:reel-pov-parcheggio.mp4 + copertina-pov-parcheggio.jpg\n\nINSTA
+ GRAM:\nPOV: i tuoi ospiti arrivano in auto in Costiera 🚗 «Dove parcheg
+ giamo? Quanto costa? Si entra in centro?»\n\nCon la guida digitale trovan
+ o tutto da soli: parcheggio\, prezzi\, ZTL e come arrivare in bus o in tra
+ ghetto.\n\nDa 29 €\, una volta sola. Scrivimi in privato e ti preparo gr
+ atis la demo della tua casa.\n\n#casavacanze #affittibrevi #hostitaliani #
+ airbnbitalia #guidadigitale\n\nFACEBOOK:\nPOV: i tuoi ospiti arrivano in a
+ uto in Costiera 🚗 «Dove parcheggiamo? Quanto costa? Si entra in centro
+ ?»\n\nCon la guida digitale trovano tutto da soli: parcheggio\, prezzi\, 
+ ZTL e come arrivare in bus o in traghetto.\n\nDa 29 €\, una volta sola. 
+ Scrivimi in privato e ti preparo gratis la demo della tua casa: guidaospit
+ i.it/?da=fb\n\nCartella iCloud: Benvenuto ospite GUIDA project > Social > 
+ Settimana 16-22 novembre
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reel POV parcheggio (IG + FB)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-47-3@guidaospiti.it
+DTSTAMP:20261116T110000Z
+DTSTART:20261119T090000Z
+DTEND:20261119T091500Z
+SUMMARY:Follow-up offerta a chi non ha risposto
+DESCRIPTION:Ciao! Ti ricordo solo che l'offerta a 49 € per attivare la gu
+ ida di [nome della casa] vale fino al 30 novembre\, per i primi 5 host. Se
+  vuoi te la attivo io\, mi basta un ok 🙂\n\nCartella iCloud: Benvenuto 
+ ospite GUIDA project > Social > Settimana 16-22 novembre
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow-up offerta a chi non ha risposto
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-47-4@guidaospiti.it
+DTSTAMP:20261116T110000Z
+DTSTART:20261121T100000Z
+DTEND:20261121T102000Z
+SUMMARY:Reel POV lingue in un gruppo Facebook
+DESCRIPTION:Un gruppo nuovo di host\, diverso da quello di sabato scorso. L
+ eggi le regole. Video senza link.\n\nTESTO:\nPer chi ospita stranieri: vi 
+ è mai capitato un messaggio in tedesco alle 18 di sera? 😅\n\nHo fatto 
+ questo video pensando proprio a noi host. Io ho risolto con una guida digi
+ tale della casa che si apre già nella lingua dell'ospite: arrivo\, Wi-Fi\
+ , rifiuti e i posti consigliati.\n\nSe volete vedere come sarebbe con la v
+ ostra casa\, scrivetemi in privato: vi preparo una demo gratuita.\n\nCarte
+ lla iCloud: Benvenuto ospite GUIDA project > Social > Settimana 16-22 nove
+ mbre
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reel POV lingue in un gruppo Facebook
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-47-5@guidaospiti.it
+DTSTAMP:20261116T110000Z
+DTSTART:20261122T173000Z
+DTEND:20261122T174500Z
+SUMMARY:Reel POV cena (IG + FB)
+DESCRIPTION:reel-pov-cena.mp4 + copertina-pov-cena.jpg\n\nINSTAGRAM:\nPOV: 
+ domenica sera\, l'ospite ha fame 🍝 E chiede a te dove mangiare…\n\nCo
+ n la guida digitale trova i tuoi posti del cuore\, con «Portami qui» che
+  apre il navigatore.\n\nDa 29 €\, una volta sola. Scrivimi in privato e 
+ ti preparo gratis la demo della tua casa.\n\n#casavacanze #affittibrevi #h
+ ostitaliani #airbnbitalia #guidadigitale\n\nFACEBOOK:\nPOV: domenica sera\
+ , l'ospite ha fame 🍝 E chiede a te dove mangiare…\n\nCon la guida dig
+ itale trova i tuoi posti del cuore\, con «Portami qui» che apre il navig
+ atore.\n\nDa 29 €\, una volta sola. Scrivimi in privato e ti preparo gra
+ tis la demo della tua casa: guidaospiti.it/?da=fb\n\nCartella iCloud: Benv
+ enuto ospite GUIDA project > Social > Settimana 16-22 novembre
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reel POV cena (IG + FB)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-social-47-6@guidaospiti.it
+DTSTAMP:20261116T110000Z
+DTSTART:20261123T083000Z
+DTEND:20261123T090000Z
+SUMMARY:Analisi della settimana
+DESCRIPTION:Scrivi a Claude nella chat social con le statistiche copiate da
+ l pannello e: demo inviate\, risposte\, ordini.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Analisi della settimana
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
